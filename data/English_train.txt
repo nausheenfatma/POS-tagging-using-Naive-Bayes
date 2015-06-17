@@ -1,0 +1,21 @@
+I_PRP work_VBP in_IN a_DT post_NN office_NN ._.
+Greg_NNP works_VBZ in_IN a_DT bank_NN ._.
+They_PRP live_VBP in_IN Washington_NNP ._.
+I_PRP eat_VBP breakfast_NN at_IN 8:00_CD a.m._RB ._.
+She_PRP goes_VBZ to_TO work_VB at_IN 9:00_CD a.m._RB 
+I_PRP wish_VBP I_PRP could_MD go_VB and_CC visit_VB my_PRP$ aunt_NN tomorrow_NN ._.
+I_PRP 'm_VBP sorry_JJ to_TO interrupt_VB you_PRP I_PRP am_VBP not_RB going_VBG home_NN ._.
+I_PRP may_MD visit_VB my_PRP$ aunt_NN 's_POS house_NN ._.
+Ram_NNP had_VBD not_RB never_RB been_VBN to_TO Hyderabad_NNP ._.
+IIIT_NNP is_VBZ an_DT institute_NN with_IN exemplary_JJ research_NN scope_NN ._.
+Is_VBZ there_EX any_DT book_NN on_IN the_DT table_NN ?_.
+What_WP is_VBZ there_RB on_IN the_DT table_NN ?_.
+There_EX are_VBP not_RB any_DT pencils_NNS in_IN my_PRP$ box_NN ._.
+Are_VBP there_EX any_DT pencils_NNS in_IN your_PRP$ box_NN ?_.
+It_PRP must_MD be_VB seven_CD ._.
+What_WDT day_NN is_VBZ today_NN ?_.
+Milk_NN is_VBZ good_JJ to_TO eat_VB ._.
+These_DT are_VBP not_RB books_NNS ._.
+Are_VBP these_DT books_NNS ?_.
+I_PRP 'm_VBP sorry_JJ ._.
+
